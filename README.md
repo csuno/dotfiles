@@ -21,4 +21,4 @@ This is to enable System font setting in the i3 config file.
 
 1. Go to https://github.com/supermarin/YosemiteSanFranciscoFont.
 2. Download the font zip file, unzip it.
-3. Copy all the .ttf files to `/etc/share/fonts/`
+3. Copy all the .ttf files to `~/.local/share/fonts`
