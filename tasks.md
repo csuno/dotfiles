@@ -4,4 +4,4 @@
 ##
 # Use Font
 ### https://nerdfonts.com/
-yaourt -Syua nerd-fonts-complete
+#yaourt -Syua nerd-fonts-complete
