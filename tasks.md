@@ -3,4 +3,7 @@
 # test in VM
 ##
 # Use Font
-## https://nerdfonts.com/
+### https://nerdfonts.com/
+### yaourt -Syua nerd-fonts-complete
+test
+test
