@@ -10,7 +10,7 @@ the i3 config file.
 1. Go to `https://github.com/FortAwesome/Font-Awesome/releases`
 and download the font file zip.
 
-2. Unzip the file, copy the .ttf font files to `/etc/share/fonts`.
+2. Unzip the file, copy the .ttf font files to `~/.local/share/fonts`.
 
 3. The icon cheetsheet: https://fortawesome.github.io/Font-Awesome/cheatsheet/
 
